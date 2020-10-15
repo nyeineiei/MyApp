@@ -1,3 +1,3 @@
 import UIKit
 
-var str = "Hello"
+var str = "Hello, playground in feature 1"
